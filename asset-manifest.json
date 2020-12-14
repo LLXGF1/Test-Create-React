@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Test-Create-React/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/Test-Create-React/static/js/main.6976eabf.chunk.js",
-    "main.js.map": "/Test-Create-React/static/js/main.6976eabf.chunk.js.map",
+    "main.css": "/Test-Create-React/static/css/main.5ab2ba96.chunk.css",
+    "main.js": "/Test-Create-React/static/js/main.3ff59a05.chunk.js",
+    "main.js.map": "/Test-Create-React/static/js/main.3ff59a05.chunk.js.map",
     "runtime-main.js": "/Test-Create-React/static/js/runtime-main.b690827d.js",
     "runtime-main.js.map": "/Test-Create-React/static/js/runtime-main.b690827d.js.map",
     "static/js/2.7599c84a.chunk.js": "/Test-Create-React/static/js/2.7599c84a.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.63fb59fc.chunk.js": "/Test-Create-React/static/js/3.63fb59fc.chunk.js",
     "static/js/3.63fb59fc.chunk.js.map": "/Test-Create-React/static/js/3.63fb59fc.chunk.js.map",
     "index.html": "/Test-Create-React/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/Test-Create-React/static/css/main.ab7136cd.chunk.css.map",
+    "static/css/main.5ab2ba96.chunk.css.map": "/Test-Create-React/static/css/main.5ab2ba96.chunk.css.map",
     "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/Test-Create-React/static/js/2.7599c84a.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Test-Create-React/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b690827d.js",
     "static/js/2.7599c84a.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.6976eabf.chunk.js"
+    "static/css/main.5ab2ba96.chunk.css",
+    "static/js/main.3ff59a05.chunk.js"
   ]
 }
